@@ -1,0 +1,30 @@
+# Visual Studio files  
+.vs/  
+*.sln  
+*.vcxproj  
+*.vcxproj.filters  
+*.vcxproj.user  
+
+# Compiled binaries  
+*.exe  
+*.dll  
+*.lib  
+*.obj  
+*.pdb  
+*.ilk  
+
+# Debug and build directories  
+Debug/  
+Release/  
+x64/  
+x86/  
+
+# Misc  
+*.log  
+*.bin  
+*.ipch  
+*.tlog  
+*.idb  
+*.o  
+*.sdf  
+*.cache  
